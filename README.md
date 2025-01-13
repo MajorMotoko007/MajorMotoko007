@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MajorMotoko007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in: Data Science | Machine Learning | Deep Learning | Natural Language Processing 
+ | MLOPS | Data Analysis
+- 🌱 I’m currently learning: GenAI
+- 💞️ I’m looking to collaborate on: GenAI projects
 - 📫 How to reach me: https://www.linkedin.com/in/sourav-sinha-719b57118/
 
 <!---
